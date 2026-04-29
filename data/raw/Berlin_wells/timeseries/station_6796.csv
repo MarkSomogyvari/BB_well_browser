@@ -1,0 +1,39 @@
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>C:\web\bwpweb\inc\bwp_util.inc.php</b> on line <b>2089</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>C:\web\bwpweb\inc\bwp_util.inc.php</b> on line <b>2090</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>C:\web\bwpweb\inc\bwp_util.inc.php</b> on line <b>2091</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>C:\web\bwpweb\inc\bwp_util.inc.php</b> on line <b>2092</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>C:\web\bwpweb\inc\bwp_util.inc.php</b> on line <b>2093</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>C:\web\bwpweb\inc\bwp_util.inc.php</b> on line <b>2094</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>C:\web\bwpweb\inc\bwp_util.inc.php</b> on line <b>2095</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>C:\web\bwpweb\inc\bwp_util.inc.php</b> on line <b>2096</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>C:\web\bwpweb\inc\bwp_util.inc.php</b> on line <b>2097</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>C:\web\bwpweb\inc\bwp_util.inc.php</b> on line <b>2098</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>C:\web\bwpweb\inc\bwp_util.inc.php</b> on line <b>2099</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>C:\web\bwpweb\inc\bwp_util.inc.php</b> on line <b>2100</b><br />
+Messstellennummer;
+Bezirk;
+Betreiber;
+Auspr�gung;
+Grundwasserleiter;
+Grundwasserdruckfl�che;
+"Gel�ndeoberkante (GOK) (m �. NHN)";
+"Rohroberkante (ROK) (m �. NHN)";
+"Filteroberkante (FOK) (m u. GOK)";
+"Filterunterkante (FUK) (m u. GOK)";
+Rechtswert;
+Hochwert;
+Projektion;"UTM 33N"
+;
+Datum;"GW-Stand (m �. NHN)"
