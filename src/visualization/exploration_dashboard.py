@@ -82,29 +82,25 @@ def load_timeseries(well_id, source):
         df['date'] = pd.to_datetime(df['date'])
         return df
     return None
-        
-# --- Sidebar Filters ---
+
+# --- Main App Logic ---
 
 df_all = load_well_data()
 df_clusters = load_cluster_trends()
 
+# --- Sidebar Filters ---
 st.sidebar.header("Map Settings")
-
-# Color Mode
 color_mode = st.sidebar.radio("Color Map By:", ["Cluster", "Trend (cm/year)"])
 
 st.sidebar.divider()
 st.sidebar.header("Filters")
 
-# Filter by Region
 region_options = df_all['source'].unique().tolist()
 selected_regions = st.sidebar.multiselect("Select Regions", region_options, default=region_options)
 
-# Filter by Cluster
 cluster_options = sorted(df_all['cluster_id'].unique().tolist())
 selected_clusters = st.sidebar.multiselect("Select Clusters", cluster_options, default=cluster_options)
 
-# Filter by Quality
 only_high_quality = st.sidebar.toggle("Show only High Quality wells", value=False)
 
 # Apply Filters
@@ -118,12 +114,9 @@ if only_high_quality:
 st.sidebar.info(f"Showing **{len(df_filtered)}** wells out of {len(df_all)}.")
 
 # --- Main Tabs ---
-
 tab1, tab2 = st.tabs(["📍 Well Exploration", "📊 Cluster Analysis"])
 
 with tab1:
-    # --- Map Selection ---
-    
     # Determine color column and scale
     if color_mode == "Cluster":
         df_filtered['color_val'] = df_filtered['cluster_id'].astype(str)
@@ -156,10 +149,9 @@ with tab1:
         coloraxis_colorbar=dict(title=color_label) if color_mode == "Trend (cm/year)" else None
     )
 
-    # Display the map and capture selection
+    # Display map and capture selection
     selected_points = st.plotly_chart(fig_map, use_container_width=True, on_select="rerun")
 
-    # --- Timeseries View ---
     st.divider()
 
     if selected_points and "selection" in selected_points and len(selected_points["selection"]["points"]) > 0:
@@ -207,7 +199,6 @@ with tab2:
     st.subheader("📊 Spatial Cluster Trend Summary")
     st.markdown("This table summarizes the groundwater level trends aggregated by spatial clusters.")
     
-    # Format the table for display
     df_clusters_disp = df_clusters.copy()
     df_clusters_disp['mean_slope'] = df_clusters_disp['mean_slope'] * 100
     df_clusters_disp['median_slope'] = df_clusters_disp['median_slope'] * 100
@@ -227,5 +218,4 @@ with tab2:
     
     st.info("Hotspots of groundwater decline (lowest Mean Slope) are prioritized in the sorted table.")
 
-# --- Footer ---
 st.caption("Data Source: Brandenburg LfU & Berlin Wasserportal. Period: 2000-2025.")
