@@ -1,0 +1,1025 @@
+ID,Grundwasserleiter,Grundwasserdruckflaeche,is_topmost,file_path
+1,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_1.csv
+100,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_100.csv
+10035,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_10035.csv
+10038,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_10038.csv
+101,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_101.csv
+102,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_102.csv
+103,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_103.csv
+10414,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_10414.csv
+10417,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_10417.csv
+10420,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_10420.csv
+10421,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_10421.csv
+105,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_105.csv
+106,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_106.csv
+107,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_107.csv
+10709,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_10709.csv
+108,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_108.csv
+109,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_109.csv
+110,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_110.csv
+114,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_114.csv
+115,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_115.csv
+120,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_120.csv
+125,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_125.csv
+128,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_128.csv
+129,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_129.csv
+1305,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_1305.csv
+1306,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_1306.csv
+1311,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_1311.csv
+1318,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_1318.csv
+1320,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_1320.csv
+1325,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_1325.csv
+1339,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_1339.csv
+1349,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_1349.csv
+1359,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_1359.csv
+136,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_136.csv
+137,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_137.csv
+138,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_138.csv
+139,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_139.csv
+144,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_144.csv
+145,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_145.csv
+146,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_146.csv
+147,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_147.csv
+149,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_149.csv
+150,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_150.csv
+15001,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15001.csv
+15012,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15012.csv
+15049,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15049.csv
+15062,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15062.csv
+15063,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15063.csv
+15065,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15065.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_15069.csv
+15101,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15101.csv
+15104,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15104.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_15115.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_15136.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_15140.csv
+15147,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15147.csv
+15150,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15150.csv
+15152,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15152.csv
+15153,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_15153.csv
+15156,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_15156.csv
+15160,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_15160.csv
+15161,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15161.csv
+15162,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_15162.csv
+15163,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15163.csv
+15165,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15165.csv
+15166,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15166.csv
+15167,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15167.csv
+15168,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_15168.csv
+15169,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_15169.csv
+15170,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_15170.csv
+15171,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15171.csv
+15172,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15172.csv
+15173,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_15173.csv
+15174,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15174.csv
+15175,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15175.csv
+15176,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15176.csv
+15178,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15178.csv
+15179,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15179.csv
+15180,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15180.csv
+15181,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15181.csv
+15183,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_15183.csv
+15184,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15184.csv
+15185,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15185.csv
+15189,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_15189.csv
+15190,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15190.csv
+15192,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15192.csv
+15193,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15193.csv
+15195,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15195.csv
+15196,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15196.csv
+15197,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15197.csv
+15198,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15198.csv
+15199,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15199.csv
+152,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_152.csv
+15201,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_15201.csv
+153,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_153.csv
+154,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_154.csv
+155,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_155.csv
+157,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_157.csv
+161,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_161.csv
+162,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_162.csv
+164,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_164.csv
+165,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_165.csv
+169,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_169.csv
+17299,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_17299.csv
+173,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_173.csv
+17300,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_17300.csv
+17301,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_17301.csv
+17302,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_17302.csv
+17303,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_17303.csv
+17304,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_17304.csv
+17305,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_17305.csv
+17306,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_17306.csv
+17308,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_17308.csv
+17310,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_17310.csv
+17311,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_17311.csv
+17312,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_17312.csv
+17315,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_17315.csv
+17316,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_17316.csv
+17319,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_17319.csv
+17321,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_17321.csv
+17322,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_17322.csv
+176,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_176.csv
+178,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_178.csv
+17900,Moor-Messstelle,,False,data/raw/Berlin_wells/timeseries\station_17900.csv
+17901,Moor-Messstelle,,False,data/raw/Berlin_wells/timeseries\station_17901.csv
+17903,Moor-Messstelle,,False,data/raw/Berlin_wells/timeseries\station_17903.csv
+17904,Moor-Messstelle,,False,data/raw/Berlin_wells/timeseries\station_17904.csv
+17905,Moor-Messstelle,,False,data/raw/Berlin_wells/timeseries\station_17905.csv
+17907,Moor-Messstelle,,False,data/raw/Berlin_wells/timeseries\station_17907.csv
+17908,Moor-Messstelle,,False,data/raw/Berlin_wells/timeseries\station_17908.csv
+17909,Moor-Messstelle,,False,data/raw/Berlin_wells/timeseries\station_17909.csv
+17910,Moor-Messstelle,,False,data/raw/Berlin_wells/timeseries\station_17910.csv
+17911,Moor-Messstelle,,False,data/raw/Berlin_wells/timeseries\station_17911.csv
+17912,Moor-Messstelle,,False,data/raw/Berlin_wells/timeseries\station_17912.csv
+181,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_181.csv
+182,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_182.csv
+185,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_185.csv
+2,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_2.csv
+200,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_200.csv
+201,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_201.csv
+202,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_202.csv
+204,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_204.csv
+206,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_206.csv
+209,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_209.csv
+211,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_211.csv
+21101,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_21101.csv
+214,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_214.csv
+221,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_221.csv
+230,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_230.csv
+231,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_231.csv
+23101,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_23101.csv
+232,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_232.csv
+23201,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_23201.csv
+23208,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_23208.csv
+237,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_237.csv
+23701,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_23701.csv
+23702,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_23702.csv
+23703,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_23703.csv
+23705,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_23705.csv
+23707,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_23707.csv
+23719,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_23719.csv
+23746,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_23746.csv
+23747,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_23747.csv
+23748,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_23748.csv
+23749,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_23749.csv
+23750,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_23750.csv
+23751,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_23751.csv
+23752,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_23752.csv
+23753,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_23753.csv
+24,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_24.csv
+241,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_241.csv
+243,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_243.csv
+247,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_247.csv
+248,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_248.csv
+249,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_249.csv
+25,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_25.csv
+251,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_251.csv
+252,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_252.csv
+253,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_253.csv
+258,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_258.csv
+259,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_259.csv
+26,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_26.csv
+2602,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_2602.csv
+2603,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_2603.csv
+2604,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_2604.csv
+2605,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_2605.csv
+2606,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_2606.csv
+2607,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_2607.csv
+262,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_262.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_2638.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_2639.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_2644.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_2646.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_2647.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_2648.csv
+268,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_268.csv
+282,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_282.csv
+293,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_293.csv
+294,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_294.csv
+3,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3.csv
+30,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_30.csv
+30201,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_30201.csv
+3024,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3024.csv
+3025,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3025.csv
+3033,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3033.csv
+305,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_305.csv
+3063,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3063.csv
+3097,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3097.csv
+31,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_31.csv
+312,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_312.csv
+3133,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_3133.csv
+3137,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3137.csv
+3144,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3144.csv
+3154,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3154.csv
+3155,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3155.csv
+3156,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3156.csv
+319,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_319.csv
+32,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_32.csv
+3211,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3211.csv
+3212,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3212.csv
+3213,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3213.csv
+3215,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3215.csv
+3216,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_3216.csv
+325,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_325.csv
+326,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_326.csv
+328,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_328.csv
+330,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_330.csv
+3315,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3315.csv
+3316,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3316.csv
+3354,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3354.csv
+3355,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_3355.csv
+3356,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3356.csv
+3357,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_3357.csv
+34,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_34.csv
+340,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_340.csv
+343,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_343.csv
+344,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_344.csv
+345,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_345.csv
+35,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_35.csv
+358,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_358.csv
+363,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_363.csv
+366,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_366.csv
+370,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_370.csv
+377,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_377.csv
+380,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_380.csv
+384,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_384.csv
+39,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_39.csv
+399,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_399.csv
+4,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4.csv
+40,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_40.csv
+4003,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4003.csv
+4005,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4005.csv
+4006,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4006.csv
+4008,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4008.csv
+401,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_401.csv
+4013,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4013.csv
+4015,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4015.csv
+404,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_404.csv
+405,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_405.csv
+4059,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4059.csv
+4061,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4061.csv
+407,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_407.csv
+4098,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4098.csv
+4102,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_4102.csv
+4105,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4105.csv
+425,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_425.csv
+426,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_426.csv
+429,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_429.csv
+430,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_430.csv
+4304,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4304.csv
+432,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_432.csv
+439,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_439.csv
+44,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_44.csv
+440,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_440.csv
+4458,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_4458.csv
+446,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_446.csv
+4460,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4460.csv
+4461,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_4461.csv
+45,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_45.csv
+4519,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4519.csv
+4521,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4521.csv
+4588,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4588.csv
+4611,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_4611.csv
+4612,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4612.csv
+4631,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4631.csv
+4632,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4632.csv
+4640,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4640.csv
+4641,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4641.csv
+4643,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4643.csv
+4653,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4653.csv
+47,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_47.csv
+4727,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_4727.csv
+4788,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4788.csv
+4799,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4799.csv
+4800,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4800.csv
+4805,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4805.csv
+4846,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4846.csv
+4851,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4851.csv
+4874,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4874.csv
+4875,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_4875.csv
+4882,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4882.csv
+4885,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4885.csv
+4890,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4890.csv
+4895,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4895.csv
+4896,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_4896.csv
+4897,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4897.csv
+4898,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_4898.csv
+492,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_492.csv
+4923,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4923.csv
+4928,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4928.csv
+4930,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_4930.csv
+496,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_496.csv
+499,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_499.csv
+50,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_50.csv
+500,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_500.csv
+5001,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5001.csv
+5002,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5002.csv
+5004,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5004.csv
+5005,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5005.csv
+5006,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5006.csv
+5008,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5008.csv
+5009,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5009.csv
+501,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_501.csv
+5011,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5011.csv
+5013,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5013.csv
+5014,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_5014.csv
+5017,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5017.csv
+5018,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_5018.csv
+5019,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5019.csv
+5020,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5020.csv
+5022,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5022.csv
+5025,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_5025.csv
+5026,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5026.csv
+5027,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5027.csv
+5029,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_5029.csv
+5031,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5031.csv
+5033,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5033.csv
+5036,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5036.csv
+5039,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5039.csv
+5040,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5040.csv
+5042,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5042.csv
+5043,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5043.csv
+5044,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5044.csv
+5045,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5045.csv
+5051,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5051.csv
+5052,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5052.csv
+5056,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5056.csv
+5057,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_5057.csv
+5058,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5058.csv
+5059,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_5059.csv
+5060,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_5060.csv
+5068,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5068.csv
+5071,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5071.csv
+5072,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5072.csv
+5073,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5073.csv
+5074,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5074.csv
+5075,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5075.csv
+5076,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5076.csv
+5077,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5077.csv
+5078,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5078.csv
+5086,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5086.csv
+5090,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_5090.csv
+5091,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5091.csv
+5092,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5092.csv
+5097,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_5097.csv
+51,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_51.csv
+510,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_510.csv
+511,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_511.csv
+5118,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5118.csv
+513,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_513.csv
+5138,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5138.csv
+5139,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5139.csv
+5140,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5140.csv
+5141,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5141.csv
+5142,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5142.csv
+5144,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5144.csv
+5147,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5147.csv
+5148,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5148.csv
+5149,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5149.csv
+5150,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5150.csv
+5152,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5152.csv
+5154,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5154.csv
+5155,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5155.csv
+5156,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5156.csv
+516,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_516.csv
+5161,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5161.csv
+5167,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5167.csv
+5168,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5168.csv
+5169,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5169.csv
+518,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_518.csv
+52,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_52.csv
+520,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_520.csv
+5202,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5202.csv
+5207,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5207.csv
+5217,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5217.csv
+522,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_522.csv
+5231,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5231.csv
+5233,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5233.csv
+5246,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_5246.csv
+5253,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5253.csv
+5255,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5255.csv
+5270,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_5270.csv
+5277,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5277.csv
+5289,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_5289.csv
+5297,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5297.csv
+53,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_53.csv
+5304,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5304.csv
+5306,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5306.csv
+5308,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5308.csv
+5311,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5311.csv
+5320,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5320.csv
+5333,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_5333.csv
+5337,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5337.csv
+5342,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5342.csv
+5351,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5351.csv
+5355,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5355.csv
+5366,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5366.csv
+5372,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5372.csv
+5382,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5382.csv
+5388,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5388.csv
+5389,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5389.csv
+5390,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5390.csv
+5404,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5404.csv
+5412,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5412.csv
+5420,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_5420.csv
+5422,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5422.csv
+5424,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5424.csv
+5427,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5427.csv
+5428,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5428.csv
+5430,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5430.csv
+5431,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5431.csv
+5462,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_5462.csv
+5471,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5471.csv
+5472,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5472.csv
+5473,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5473.csv
+5476,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5476.csv
+55,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_55.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5517.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5518.csv
+552,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_552.csv
+553,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_553.csv
+554,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_554.csv
+5573,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5573.csv
+558,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_558.csv
+5581,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_5581.csv
+5600,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_5600.csv
+561,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_561.csv
+562,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_562.csv
+563,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_563.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5631.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5632.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5633.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5634.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5635.csv
+564,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_564.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5651.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5652.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5653.csv
+569,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_569.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5717.csv
+576,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_576.csv
+577,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_577.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5780.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5781.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5782.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5783.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5784.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5785.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5786.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5787.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5788.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5789.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5790.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5795.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5796.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5797.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5798.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5799.csv
+58,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_58.csv
+580,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_580.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5800.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5801.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5804.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5805.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5806.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5807.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5808.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5809.csv
+581,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_581.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5810.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5811.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5812.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5813.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5814.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5815.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5816.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5817.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5818.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5819.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5820.csv
+583,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_583.csv
+584,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_584.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5845.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5846.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5847.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5848.csv
+585,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_585.csv
+587,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_587.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5900.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5901.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5902.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5903.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_5904.csv
+591,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_591.csv
+594,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_594.csv
+595,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_595.csv
+596,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_596.csv
+597,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_597.csv
+60,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_60.csv
+6004,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6004.csv
+6007,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6007.csv
+6010,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6010.csv
+6011,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6011.csv
+6012,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6012.csv
+6013,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6013.csv
+6015,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6015.csv
+6016,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6016.csv
+6017,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6017.csv
+6020,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6020.csv
+6021,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6021.csv
+6022,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6022.csv
+6023,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6023.csv
+6024,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6024.csv
+6025,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6025.csv
+6026,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6026.csv
+6027,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6027.csv
+6029,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_6029.csv
+603,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_603.csv
+6034,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6034.csv
+6035,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_6035.csv
+6038,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6038.csv
+604,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_604.csv
+6040,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6040.csv
+6043,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6043.csv
+6044,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6044.csv
+6047,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6047.csv
+605,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_605.csv
+6056,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6056.csv
+6057,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6057.csv
+6059,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6059.csv
+606,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_606.csv
+6060,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6060.csv
+6063,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6063.csv
+6066,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6066.csv
+6067,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6067.csv
+6069,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6069.csv
+607,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_607.csv
+6076,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6076.csv
+608,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_608.csv
+6080,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6080.csv
+6082,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6082.csv
+6084,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6084.csv
+6089,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6089.csv
+609,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_609.csv
+6092,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6092.csv
+6093,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6093.csv
+6095,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6095.csv
+6097,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6097.csv
+610,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_610.csv
+6102,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6102.csv
+6108,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6108.csv
+6110,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6110.csv
+6111,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6111.csv
+6112,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6112.csv
+6113,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6113.csv
+6114,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6114.csv
+6115,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6115.csv
+6119,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6119.csv
+6121,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6121.csv
+6125,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6125.csv
+6127,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_6127.csv
+62,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_62.csv
+621,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_621.csv
+622,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_622.csv
+628,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_628.csv
+64,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_64.csv
+642,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_642.csv
+644,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_644.csv
+645,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_645.csv
+648,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_648.csv
+6501,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6501.csv
+6504,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6504.csv
+6510,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6510.csv
+6511,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_6511.csv
+6515,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6515.csv
+6516,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6516.csv
+6518,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_6518.csv
+652,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_652.csv
+6520,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_6520.csv
+6522,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6522.csv
+6532,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_6532.csv
+6533,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_6533.csv
+6534,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_6534.csv
+6535,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_6535.csv
+654,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_654.csv
+6548,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6548.csv
+6560,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6560.csv
+6567,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6567.csv
+6568,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6568.csv
+658,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_658.csv
+66,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_66.csv
+662,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_662.csv
+667,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_667.csv
+669,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_669.csv
+671,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_671.csv
+672,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_672.csv
+674,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_674.csv
+6743,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6743.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6745.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6746.csv
+676,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_676.csv
+677,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_677.csv
+678,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_678.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6786.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6788.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6789.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6790.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6791.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6792.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6793.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6795.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6796.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6797.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6799.csv
+68,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_68.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6800.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6801.csv
+683,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_683.csv
+684,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_684.csv
+685,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_685.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6916.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_6920.csv
+693,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_693.csv
+694,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_694.csv
+6961,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6961.csv
+6962,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6962.csv
+6963,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6963.csv
+6964,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6964.csv
+6965,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6965.csv
+6967,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6967.csv
+6968,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_6968.csv
+697,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_697.csv
+6973,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_6973.csv
+6974,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_6974.csv
+6975,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_6975.csv
+698,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_698.csv
+70,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_70.csv
+700,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_700.csv
+7003,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7003.csv
+7014,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7014.csv
+7015,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7015.csv
+7016,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7016.csv
+7018,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7018.csv
+702,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_702.csv
+7027,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7027.csv
+7028,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7028.csv
+7029,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7029.csv
+703,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_703.csv
+7030,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7030.csv
+7039,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7039.csv
+7040,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7040.csv
+7041,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7041.csv
+7042,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7042.csv
+7044,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7044.csv
+7045,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7045.csv
+7048,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7048.csv
+7049,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7049.csv
+7050,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7050.csv
+7054,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7054.csv
+7055,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7055.csv
+7056,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7056.csv
+7057,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7057.csv
+7058,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7058.csv
+7066,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7066.csv
+7067,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7067.csv
+7076,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7076.csv
+7078,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7078.csv
+7079,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7079.csv
+7081,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7081.csv
+7082,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7082.csv
+7083,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7083.csv
+7084,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7084.csv
+7085,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7085.csv
+7092,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7092.csv
+7098,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7098.csv
+7099,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7099.csv
+71,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_71.csv
+710,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_710.csv
+7104,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7104.csv
+7106,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7106.csv
+7107,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7107.csv
+7109,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7109.csv
+711,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_711.csv
+7110,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7110.csv
+7111,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7111.csv
+7112,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7112.csv
+7114,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7114.csv
+7117,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7117.csv
+7118,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7118.csv
+7119,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7119.csv
+712,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_712.csv
+7125,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7125.csv
+7126,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7126.csv
+7127,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7127.csv
+7128,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7128.csv
+7132,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7132.csv
+7136,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7136.csv
+7137,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7137.csv
+7145,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7145.csv
+7146,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7146.csv
+7147,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7147.csv
+7161,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7161.csv
+7168,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7168.csv
+7171,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7171.csv
+7172,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7172.csv
+7173,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7173.csv
+7178,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7178.csv
+7180,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7180.csv
+7182,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7182.csv
+7192,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7192.csv
+7193,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7193.csv
+7194,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7194.csv
+7195,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7195.csv
+7196,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7196.csv
+720,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_720.csv
+7206,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7206.csv
+7207,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7207.csv
+7208,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7208.csv
+721,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_721.csv
+7210,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7210.csv
+7214,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7214.csv
+7215,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7215.csv
+7216,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7216.csv
+7218,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7218.csv
+7219,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7219.csv
+7228,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7228.csv
+7229,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7229.csv
+7231,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7231.csv
+7233,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7233.csv
+7237,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7237.csv
+7240,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7240.csv
+7241,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7241.csv
+7248,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7248.csv
+7249,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7249.csv
+7250,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7250.csv
+7251,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7251.csv
+7253,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7253.csv
+7254,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7254.csv
+7255,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7255.csv
+7259,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7259.csv
+726,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_726.csv
+7261,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7261.csv
+7264,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7264.csv
+7269,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7269.csv
+7275,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7275.csv
+7277,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7277.csv
+7278,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7278.csv
+728,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_728.csv
+7281,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7281.csv
+7286,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7286.csv
+729,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_729.csv
+7291,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7291.csv
+7292,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7292.csv
+7293,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7293.csv
+7295,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7295.csv
+7299,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7299.csv
+73,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_73.csv
+7301,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7301.csv
+731,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_731.csv
+7323,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7323.csv
+7324,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7324.csv
+7340,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7340.csv
+7347,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7347.csv
+738,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_738.csv
+741,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_741.csv
+742,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_742.csv
+744,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_744.csv
+746,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_746.csv
+747,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_747.csv
+749,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_749.csv
+75,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_75.csv
+750,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_750.csv
+7502,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_7502.csv
+751,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_751.csv
+7518,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_7518.csv
+752,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_752.csv
+753,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_753.csv
+754,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_754.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_7546.csv
+755,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_755.csv
+756,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_756.csv
+757,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_757.csv
+7578,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7578.csv
+76,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_76.csv
+760,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_760.csv
+762,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_762.csv
+765,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_765.csv
+767,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_767.csv
+7678,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_7678.csv
+768,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_768.csv
+769,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_769.csv
+770,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_770.csv
+7706,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_7706.csv
+7713,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7713.csv
+772,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_772.csv
+7722,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_7722.csv
+773,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_773.csv
+774,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_774.csv
+7742,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7742.csv
+7745,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_7745.csv
+7746,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_7746.csv
+775,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_775.csv
+7750,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_7750.csv
+7752,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7752.csv
+776,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_776.csv
+777,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_777.csv
+7845,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7845.csv
+785,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_785.csv
+7882,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_7882.csv
+7884,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_7884.csv
+7885,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7885.csv
+7886,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7886.csv
+7892,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_7892.csv
+79,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_79.csv
+791,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_791.csv
+7917,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_7917.csv
+793,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_793.csv
+795,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_795.csv
+796,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_796.csv
+797,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_797.csv
+798,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_798.csv
+80,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_80.csv
+800,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_800.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_8002.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_8003.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_8004.csv
+801,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_801.csv
+8018,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8018.csv
+802,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_802.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_8028.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_8029.csv
+803,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_803.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_8030.csv
+8044,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8044.csv
+8045,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_8045.csv
+8047,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8047.csv
+8048,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_8048.csv
+8053,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8053.csv
+8054,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_8054.csv
+8056,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_8056.csv
+8058,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8058.csv
+8059,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_8059.csv
+806,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_806.csv
+8063,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_8063.csv
+807,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_807.csv
+808,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_808.csv
+809,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_809.csv
+810,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_810.csv
+811,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_811.csv
+8118,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8118.csv
+812,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_812.csv
+813,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_813.csv
+816,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_816.csv
+817,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_817.csv
+819,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_819.csv
+8199,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8199.csv
+82,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_82.csv
+8213,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8213.csv
+8214,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_8214.csv
+8215,Terti�re GW-Leiter (GWL 4),,False,data/raw/Berlin_wells/timeseries\station_8215.csv
+8221,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8221.csv
+8224,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8224.csv
+8225,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8225.csv
+8226,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8226.csv
+830,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_830.csv
+833,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_833.csv
+8349,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8349.csv
+8350,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8350.csv
+8351,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_8351.csv
+8355,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8355.csv
+8367,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8367.csv
+8378,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8378.csv
+8408,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8408.csv
+8411,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_8411.csv
+8412,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8412.csv
+8414,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8414.csv
+8415,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_8415.csv
+8437,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8437.csv
+8438,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_8438.csv
+8440,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8440.csv
+8441,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8441.csv
+8443,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8443.csv
+8444,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_8444.csv
+8445,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8445.csv
+8448,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8448.csv
+8450,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8450.csv
+8458,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8458.csv
+8459,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8459.csv
+8464,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8464.csv
+8468,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8468.csv
+8469,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8469.csv
+8472,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8472.csv
+8473,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8473.csv
+8476,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8476.csv
+8484,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8484.csv
+86,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_86.csv
+8693,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8693.csv
+87,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_87.csv
+88,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_88.csv
+89,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_89.csv
+8947,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8947.csv
+8949,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8949.csv
+8950,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8950.csv
+8964,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8964.csv
+8974,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8974.csv
+8979,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8979.csv
+8997,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_8997.csv
+9,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_9.csv
+90,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_90.csv
+9016,lokal ausgebildeter Grundwasserk�rper,,False,data/raw/Berlin_wells/timeseries\station_9016.csv
+90203,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_90203.csv
+90267,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_90267.csv
+9058,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_9058.csv
+9083,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9083.csv
+9092,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9092.csv
+91,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_91.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9158.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9159.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9160.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9161.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9162.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9163.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9166.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9167.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9168.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9169.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9170.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9171.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9172.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9177.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9178.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9181.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9185.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9186.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9188.csv
+92,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_92.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9204.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9205.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9207.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9209.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9210.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9213.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9214.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9215.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9221.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9224.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9225.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9226.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9227.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9228.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9230.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9234.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9235.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9237.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9238.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9239.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9240.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9248.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9249.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9251.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9252.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9253.csv
+93,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_93.csv
+93143,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_93143.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9354.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9356.csv
+,,,False,data/raw/Berlin_wells/timeseries\station_9357.csv
+94,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_94.csv
+9401,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9401.csv
+9408,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9408.csv
+9416,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9416.csv
+9424,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9424.csv
+9445,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9445.csv
+9451,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9451.csv
+9458,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9458.csv
+9485,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9485.csv
+9491,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9491.csv
+9492,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9492.csv
+95,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_95.csv
+9503,Elsterzeitl. GW-Leiter (GWL 3),,False,data/raw/Berlin_wells/timeseries\station_9503.csv
+95242,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_95242.csv
+95391,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_95391.csv
+95580,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_95580.csv
+96,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_96.csv
+9612,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9612.csv
+9614,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9614.csv
+97,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_97.csv
+97175,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_97175.csv
+97766,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_97766.csv
+97894,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_97894.csv
+98345,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_98345.csv
+9859,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9859.csv
+9874,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9874.csv
+98954,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_98954.csv
+99003,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_99003.csv
+99085,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_99085.csv
+9931,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_9931.csv
+9932,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_9932.csv
+99619,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_99619.csv
+99620,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_99620.csv
+99721,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_99721.csv
+99729,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_99729.csv
+99868,Hauptgrundwasserleiter (GWL 1.3 + 2),,True,data/raw/Berlin_wells/timeseries\station_99868.csv
+9987,Panketalgrundwasserleiter (GWL 1.2),,True,data/raw/Berlin_wells/timeseries\station_9987.csv
