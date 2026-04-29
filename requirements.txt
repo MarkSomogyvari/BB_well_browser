@@ -1,0 +1,7 @@
+   1 streamlit
+   2 pandas
+   3 geopandas
+   4 plotly
+   5 xarray
+   6 cfgrib
+   7 numpy<2.0.0
